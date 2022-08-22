@@ -17,9 +17,9 @@ I exploit an exogenous shock to airline supply—the Boeing 737 MAX grounding—
 
 *Previous Version:* This paper was originally written for Eric Ohrn's seminar in Microeconometrics at Grinnell under the title "Market Power in Airlines: Evidence from the Boeing 737 MAX Grounding" and it won the Midwest Economics Association's Best Undergraduate Paper Prize in 2020. This project has *substntially* changed since then.
 
-**Racial and Gender Bias in Child Maltreatment Reporting Decisions: Results of a Randomized Vignette Experiment** (with Ian Ayres and Sonia Quinn)
+**Racial and Gender Bias in Child Maltreatment Reporting Decisions: Results of a Randomized Vignette Experiment** (with Ian Ayres and Sonia Quinn; under submission)
 
-In this randomized vignette experiment, we asked 4,000 respondents through a YouGov survey to decide how likely they would be to report potential instances of child maltreatment to authorities. We used racialized and gendered names to suggest randomize the identities of the parents and children that respondents viewed in each of the ten vignettes that were based on real-life eventsthey were shown. We find that respondents were less likely to report potential child maltreatment when the vignette used non-White names to describe the family participants. Respondents were less likely to report when a male child was involved, and more likely to report when a male parent was involved. The uncovered racial and gender were more pronounced in vignettes that were of intermediate severity.
+In this randomized vignette experiment, we asked 4,000 respondents through a YouGov survey to decide how likely they would be to report potential instances of child maltreatment to authorities. We used racialized and gendered names to suggest randomize the identities of the parents and children that respondents viewed in each of the ten vignettes that were based on real-life events they were shown. We find that respondents were less likely to report potential child maltreatment when the vignette used non-White names to describe the family participants. Respondents were less likely to report when a male child was involved, and more likely to report when a male parent was involved. The uncovered racial and gender were more pronounced in vignettes that were of intermediate severity.
 
 **The Impact of Involuntary Outpatient Commitment Laws on Mental Health** (with Ian Ayres)
 
@@ -28,7 +28,7 @@ In 1971, Florida passed the "Baker Act" which allows the involuntary institution
 **Substance Abuse and Involuntary Commitment Laws** (with Ian Ayres)
 
 ## Publications
-Guns and Property Preference: Testing the Impact of Gilles and Cynicism Conjectures Using Survey Data, *3 Quinnipiac Law Review 387 (2021)*, (with Ian Ayres, Spurthi Jonnalagadda and, Frederick Vars).
+Guns and Property Preference: Testing the Impact of Gilles and Cynicism Conjectures Using Survey Data, *3 Quinnipiac Law Review 387 (2021)*, (with Ian Ayres, Spurthi Jonnalagadda and Frederick Vars).
 
 ## Inactive Projects
 
