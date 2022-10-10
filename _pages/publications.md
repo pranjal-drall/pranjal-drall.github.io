@@ -17,7 +17,9 @@ This paper makes three primary contributions. First, this is the first paper tha
 
 I exploit an exogenous shock to airline supply—the Boeing 737 MAX grounding—to study the pricing responses of firms to cost shocks in a concentrated industry. The grounding disproportionately affected certain carriers (Southwest) which allows me to credibly measure the cost shock's impact on pricing decisions by the legacy airlines that were relatively less affected. I first document a 5% increase in prices at the route level; this effect is stronger in more concentrated and capacity constrained markets. I also find that legacy airlines reduce prices in response to the shock while Southwest is forced to raise prices.
 
+<!---
 // I attempt to rationalize this reduced form evidence to potential theories of // conduct. Please see this [proposal]({{https://pranjal-drall.github.io}}/// files/601_proposal.pdf) for more details.
+-->
 
 *Previous Version:* This paper was originally written for Eric Ohrn's seminar in Microeconometrics at Grinnell under the title "Market Power in Airlines: Evidence from the Boeing 737 MAX Grounding." This earlier version won the Midwest Economics Association's Best Undergraduate Paper Prize in 2020. The project has *substntially* changed since then.
 
