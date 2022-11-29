@@ -8,6 +8,7 @@ author_profile: true
 ## Current Research
 
 **The Long Run Impact of Farm Foreclosures: Evidence from the Great Depression**
+ [(Draft)]({{https://pranjal-drall.github.io}}/files/farms.pdf)
 
 I estimate the impact of farm foreclosures during the Great Depression on individuals and land over the 20th century. I exploit the passage of state foreclosure moratorium laws between 1933-1935 which temporarily prevented creditors from foreclosing on delinquent farmers in 27 states. This allows me to compare counties with similar percent of farms mortgaged across foreclosure regimes. Using linked Census microdata, I first show that farmers in counties with lower exposure to foreclosures had better labor market outcomes (earnings and wages) and were less likely to migrate in 1940. However, despite the gains for individuals, the policy caused significant and persistent relative declines in farmland values, revenues, and farm productivity over the 20th century. Manufacturing value added per worker, capital investment and productivity also see relative declines. These changes happen at the intensive margin, as acres in farmland and the number of establishments remain steady over time for treated counties.
 
