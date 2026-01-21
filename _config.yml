@@ -29,9 +29,9 @@ author:
   avatar           : "profile.png"
   name             : "Pranjal Drall"
   pronouns         : # example: "she/her"
-  bio              : "JD-PhD Candidate in Financial Economics"
+  bio              : "Yale Law School / School of Management"
   location         : "New Haven, CT"
-  employer         : "Yale Law School / Yale School of Management"
+  # employer         : "Yale Law School /School of Management"
   uri              : # URL
   email            : "pranjal.drall@yale.edu"
 
