@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education and Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<style>
+.page__content h1 {
+  font-size: 1.5em;
+}
+</style>
 
 Education
 ======
@@ -22,14 +28,6 @@ Education
   * Thesis: *Can Supply Shocks Facilitate Collusion? Evidence from the Boeing 737 MAX Grounding*
     * Best Undergraduate Paper Prize, Midwest Economics Association 2020 Meeting
   * Honors: Gilbert F. DeBartolo '69 Prize for outstanding theoretical and empirical analysis in economics
-
-Research
-======
-* Make Whole Litigation in Bankruptcy, *43 Yale Journal on Regulation ___* (Note; forthcoming 2026)
-* The Economic Consequences of Farm Foreclosure Moratoria (with Ewan Rawcliffe)
-* Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production (with Joshua Macey and Terra Baer)
-* A Markets Based Approach to Public Utility Ratemaking (with Mark Ellis)
-* Rethinking the Politics of Abundance (with Yehonatan Givati and Kishore Chundi)
 
 Experience
 ======
@@ -47,14 +45,3 @@ Experience
 
 * **Yale Law School**, New Haven, CT
   * Research Fellow (Ian Ayres), June 2020 - August 2021
-
-Teaching
-======
-* Teaching Assistant, Procedure (Harold Koh), Yale Law School
-* Teaching Assistant, Constitutional Law (Samuel Moyn), Yale Law School
-* Teaching Assistant, Business Organizations (Sarath Sanga), Yale Law School
-* Teaching Assistant, Corporate Finance (Chris Clayton), Yale College
-
-Interests
-======
-Arthouse film, Tennis, and overinvesting in the Green Bay Packers
