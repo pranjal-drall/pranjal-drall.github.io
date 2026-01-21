@@ -48,4 +48,4 @@ Experience
 
 Interests
 =====
-Outside of research, I support the Green Bay Packers, play tennis and enjoy arthouse film.
+Outside of research, I support the Green Bay Packers, play tennis and try to watch lots of arthouse film.
