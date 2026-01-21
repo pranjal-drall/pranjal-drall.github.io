@@ -18,7 +18,7 @@ description              : &description "JD-PhD Candidate in Financial Economics
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
 url: https://pranjal-drall.github.io
-repository: pranjal-drall/website
+repository: pranjal-drall/pranjal-drall.github.io
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
