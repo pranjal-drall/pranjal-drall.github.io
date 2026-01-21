@@ -11,54 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Yale Law School / Yale School of Management**, New Haven, CT
+  * JD-PhD in Financial Economics
+  * Expected: 2027 (JD); 2029 (PhD)
+  * Honors: Judge Ralph K. Winter Jr. Prize for Law and Economics
+  * Activities: Executive Submissions Editor, *Yale Journal on Regulation* (Volume 43)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Grinnell College**, Grinnell, IA
+  * B.A. in Mathematics and Economics, with honors, May 2020
+  * Thesis: *Can Supply Shocks Facilitate Collusion? Evidence from the Boeing 737 MAX Grounding*
+    * Best Undergraduate Paper Prize, Midwest Economics Association 2020 Meeting
+  * Honors: Gilbert F. DeBartolo '69 Prize for outstanding theoretical and empirical analysis in economics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research
+======
+* Make Whole Litigation in Bankruptcy, *43 Yale Journal on Regulation ___* (Note; forthcoming 2026)
+* The Economic Consequences of Farm Foreclosure Moratoria (with Ewan Rawcliffe)
+* Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production (with Joshua Macey and Terra Baer)
+* A Markets Based Approach to Public Utility Ratemaking (with Mark Ellis)
+* Rethinking the Politics of Abundance (with Yehonatan Givati and Kishore Chundi)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Latham & Watkins LLP**, Washington, DC
+  * Summer Associate (2025)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* **Holwell Shuster & Goldberg LLP**, New York, NY
+  * Summer Associate (2024)
+
+* **Susman Godfrey LLP**, Houston, TX
+  * Summer Associate (2024)
+
+* **The University of Chicago**, Chicago, IL
+  * Predoctoral Fellow (Thom Covert and Ryan Kellogg), September 2021 - June 2023
+
+* **Yale Law School**, New Haven, CT
+  * Research Fellow (Ian Ayres), June 2020 - August 2021
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Teaching Assistant, Procedure (Harold Koh), Yale Law School
+* Teaching Assistant, Constitutional Law (Samuel Moyn), Yale Law School
+* Teaching Assistant, Business Organizations (Sarath Sanga), Yale Law School
+* Teaching Assistant, Corporate Finance (Chris Clayton), Yale College
+
+Interests
 ======
-* Currently signed in to 43 different slack teams
+Arthouse film, Tennis, and overinvesting in the Green Bay Packers
