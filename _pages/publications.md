@@ -9,7 +9,7 @@ redirect_from:
 
 ## Working Papers
 
-* Make Whole Litigation in Bankruptcy, *43 Yale Journal on Regulation ___* (Note; forthcoming 2026)
+* Make Whole Litigation in Bankruptcy, *43 Yale Journal on Regulation ___* (forthcoming 2026)
 * The Economic Consequences of Farm Foreclosure Moratoria (with [Ewan Rawcliffe](https://ewanrawcliffe.com/))
 * Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production (with [Joshua Macey](https://law.yale.edu/joshua-macey) and Terra Baer)
 * A Market Based Approach to Public Utility Ratemaking (with [Mark Ellis](https://www.economicliberties.us/mark-ellis/) and [Joshua Macey](https://law.yale.edu/joshua-macey))
