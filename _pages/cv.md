@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education and Experience"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -41,7 +41,11 @@ Experience
   * Summer Associate (2024)
 
 * **The University of Chicago**, Chicago, IL
-  * Predoctoral Fellow (Thom Covert and Ryan Kellogg), September 2021 - June 2023
+  * Predoctoral Fellow (Thom Covert and Ryan Kellogg) (2021-23)
 
 * **Yale Law School**, New Haven, CT
-  * Research Fellow (Ian Ayres), June 2020 - August 2021
+  * Research Fellow (Ian Ayres) (2020-21)
+
+Interests
+=====
+Outside of research, I support the Green Bay Packers, play tennis and enjoy arthouse film.
