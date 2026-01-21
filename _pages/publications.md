@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /publications/
 title: "Research"
 author_profile: true
