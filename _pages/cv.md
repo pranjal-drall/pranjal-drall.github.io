@@ -26,9 +26,9 @@ Education
 Research
 ======
 * Make Whole Litigation in Bankruptcy, *43 Yale Journal on Regulation ___* (Note; forthcoming 2026)
+* The Economic Consequences of Farm Foreclosure Moratoria (with Ewan Rawcliffe)
 * Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production (with Joshua Macey and Terra Baer)
 * A Markets Based Approach to Public Utility Ratemaking (with Mark Ellis)
-* The Economic Consequences of Farm Foreclosure Moratoria (with Ewan Rawcliffe)
 * Rethinking the Politics of Abundance (with Yehonatan Givati and Kishore Chundi)
 
 Experience
@@ -53,7 +53,7 @@ Teaching
 * Teaching Assistant, Procedure (Harold Koh), Yale Law School
 * Teaching Assistant, Constitutional Law (Samuel Moyn), Yale Law School
 * Teaching Assistant, Business Organizations (Sarath Sanga), Yale Law School
-* Teaching Assistant, Corporate Finance (Chris Clayton), Yale School of Management
+* Teaching Assistant, Corporate Finance (Chris Clayton), Yale College
 
 Interests
 ======
