@@ -1,5 +1,5 @@
 ---
 title: "FARMS"
 permalink: /publications/farms
-redirect_to: /files/frams_draft.pdf
+redirect_to: /files/farms_draft.pdf
 ---
