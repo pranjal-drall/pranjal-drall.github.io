@@ -139,9 +139,19 @@ function toggleAbstract(id) {
 
 ## Publications
 
-* Make Whole Litigation in Bankruptcy, *43 Yale Journal on Regulation ___* (forthcoming 2026)
-* Racial and Gender Bias in Child Maltreatment Reporting Decisions: Results of a Randomized Vignette Experiment, *21 UC Law SF Race & Econ. Just. L.J. 183* (2024) (with Ian Ayres and Sonia Qin)
-* Guns and Property Preference: Testing the Impact of Gilles and Cynicism Conjectures Using Survey Data, *39 Quinnipiac Law Review* (2021) (with [Ian Ayres](https://law.yale.edu/ian-ayres), Spurthi Jonnalagadda and [Fredrick Vars](https://law.ua.edu/faculty_staff/fredrick-vars/))
+<div class="publication-item">
+  <div class="publication-title">Make Whole Litigation in Bankruptcy, <em>43 Yale Journal on Regulation ___</em> (forthcoming 2026)</div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">Racial and Gender Bias in Child Maltreatment Reporting Decisions: Results of a Randomized Vignette Experiment, <em>21 UC Law SF Race & Econ. Just. L.J. 183</em> (2024)</div>
+  <div class="coauthors">with Ian Ayres and Sonia Qin</div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">Guns and Property Preference: Testing the Impact of Gilles and Cynicism Conjectures Using Survey Data, <em>39 Quinnipiac Law Review</em> (2021)</div>
+  <div class="coauthors">with <a href="https://law.yale.edu/ian-ayres">Ian Ayres</a>, Spurthi Jonnalagadda and <a href="https://law.ua.edu/faculty_staff/fredrick-vars/">Fredrick Vars</a></div>
+</div>
 
 ## Inactive
 
