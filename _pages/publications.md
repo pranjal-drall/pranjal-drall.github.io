@@ -89,7 +89,7 @@ redirect_from:
   <div class="coauthors">with <a href="https://ewanrawcliffe.com/">Ewan Rawcliffe</a></div>
   <div class="publication-buttons">
     <button class="btn btn--abstract" onclick="toggleAbstract('foreclosure-abstract')">Abstract</button>
-    <a href="#" class="btn btn--draft">Draft on request</a>
+    <a href="mailto:pranjal.drall@yale.edu" class="btn btn--draft">Draft on request</a>
   </div>
   <div id="foreclosure-abstract" class="abstract-content">
     <p>We study the effects of mortgage forbearance on local economies and individuals. During the Great Depression, twenty-five states adopted foreclosure moratoria that temporarily prevented lenders from seizing farms. By interrupting foreclosures during systemic crises, forbearance policies can avert fire sales, stabilize bank balance sheets, and dampen credit contractions. At the same time, they can raise the cost of capital and entrench land in the hands of less productive operators. We empirically evaluate these trade-offs using county-level agricultural data and linked full-count census records. We show that the moratoria preserved at least 250,000 farms nationwide and that counties most exposed to mortgages—and thus foreclosure risk—experienced a persistent 15% increase in the number of farms. Farmers protected by the policy, and their children, were significantly more likely to remain in agriculture and less likely to transition into manufacturing even two decades later. The moratoria shifted agricultural production toward smaller, more labor-intensive farms operating on more marginal land with lower capital intensity. The resulting delay in consolidation depressed farm revenues and asset values. At the same time, the policies raised local borrowing costs by roughly 10% during a period of substantial interest-rate convergence. We also find suggestive evidence that highly exposed counties developed weaker manufacturing sectors in the long run, consistent with slower labor reallocation out of agriculture. Taken together, our results show that well-intentioned policies that temporarily suspend creditor remedies can have significant long-run costs.</p>
@@ -112,7 +112,7 @@ function toggleAbstract(id) {
   <div class="coauthors">with <a href="https://law.yale.edu/joshua-macey">Josh Macey</a> and Terra Baer</div>
   <div class="publication-buttons">
     <button class="btn btn--abstract" onclick="toggleAbstract('too-liable-abstract')">Abstract</button>
-    <a href="#" class="btn btn--draft">Draft on request</a>
+    <a href="mailto:pranjal.drall@yale.edu" class="btn btn--draft">Draft on request</a>
   </div>
   <div id="too-liable-abstract" class="abstract-content">
     <p>This Article describes the emergence of "too-liable-to-regulate" fossil fuel companies: firms whose environmental liabilities are so large that they effectively become judgment-proof, enabling them to evade remediation and decommissioning obligations. Although liability is typically thought to reduce production and deter corporate misconduct, large cleanup liabilities can insulate companies from regulatory enforcement, since regulators may hesitate to pursue enforcement that would push distressed firms into liquidation.</p>
@@ -125,7 +125,7 @@ function toggleAbstract(id) {
   <div class="publication-title">A Market Based Approach to Public Utility Ratemaking</div>
   <div class="coauthors">with <a href="https://www.economicliberties.us/mark-ellis/">Mark Ellis</a> and <a href="https://law.yale.edu/joshua-macey">Josh Macey</a></div>
   <div class="publication-buttons">
-    <a href="#" class="btn btn--draft">Draft on request</a>
+    <a href="mailto:pranjal.drall@yale.edu" class="btn btn--draft">Draft on request</a>
   </div>
 </div>
 
@@ -133,15 +133,25 @@ function toggleAbstract(id) {
   <div class="publication-title">Rethinking the Politics of Abundance</div>
   <div class="coauthors">with <a href="https://law.yale.edu/yehonatan-givati">Yehonatan Givati</a> and Kishore Chundi</div>
   <div class="publication-buttons">
-    <a href="#" class="btn btn--draft">Draft on request</a>
+    <a href="mailto:pranjal.drall@yale.edu" class="btn btn--draft">Draft on request</a>
   </div>
 </div>
 
 ## Publications
 
-* Make Whole Litigation in Bankruptcy, *43 Yale Journal on Regulation ___* (forthcoming 2026)
-* Racial and Gender Bias in Child Maltreatment Reporting Decisions: Results of a Randomized Vignette Experiment, *21 UC Law SF Race & Econ. Just. L.J. 183* (2024) (with Ian Ayres and Sonia Qin)
-* Guns and Property Preference: Testing the Impact of Gilles and Cynicism Conjectures Using Survey Data, *39 Quinnipiac Law Review* (2021) (with [Ian Ayres](https://law.yale.edu/ian-ayres), Spurthi Jonnalagadda and [Fredrick Vars](https://law.ua.edu/faculty_staff/fredrick-vars/))
+<div class="publication-item">
+  <div class="publication-title">Make Whole Litigation in Bankruptcy, <em>43 Yale Journal on Regulation ___</em> (forthcoming 2026)</div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">Racial and Gender Bias in Child Maltreatment Reporting Decisions: Results of a Randomized Vignette Experiment, <em>21 UC Law SF Race & Econ. Just. L.J. 183</em> (2024)</div>
+  <div class="coauthors">with Ian Ayres and Sonia Qin</div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">Guns and Property Preference: Testing the Impact of Gilles and Cynicism Conjectures Using Survey Data, <em>39 Quinnipiac Law Review</em> (2021)</div>
+  <div class="coauthors">with <a href="https://law.yale.edu/ian-ayres">Ian Ayres</a>, Spurthi Jonnalagadda and <a href="https://law.ua.edu/faculty_staff/fredrick-vars/">Fredrick Vars</a></div>
+</div>
 
 ## Inactive
 
