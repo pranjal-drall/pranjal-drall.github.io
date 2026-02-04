@@ -86,7 +86,18 @@ function toggleAbstract(id) {
 }
 </script>
 
-* Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production (with [Josh Macey](https://law.yale.edu/joshua-macey) and Terra Baer)
+<div class="publication-item">
+* Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production (with <a href="https://law.yale.edu/joshua-macey">Josh Macey</a> and Terra Baer)
+  <div class="publication-buttons">
+    <a href="#" class="btn btn--info">Draft on request</a>
+    <button class="btn btn--primary" onclick="toggleAbstract('too-liable-abstract')">Abstract</button>
+  </div>
+  <div id="too-liable-abstract" class="abstract-content">
+    <p>This Article describes the emergence of "too-liable-to-regulate" fossil fuel companies: firms whose environmental liabilities are so large that they effectively become judgment-proof, enabling them to evade remediation and decommissioning obligations. Although liability is typically thought to reduce production and deter corporate misconduct, large cleanup liabilities can insulate companies from regulatory enforcement, since regulators may hesitate to pursue enforcement that would push distressed firms into liquidation.</p>
+    <p>To understand how the judgment-proof problem is affecting fossil fuel asset remediation, we compile every domestic coal mine reclamation (cleanup) and onshore gas plug and abandonment (P&A) law and calculate cleanup obligations for two companies: Diversified Energy, the largest oil and gas well owner in the United States, and Indemnity National, the country's largest insurer of coal mine reclamation obligations. Our estimates show that both firms' continued operation depends on predictable underenforcement of cleanup and decommissioning laws.</p>
+    <p>Our analysis of Diversified and Indemnity supports four theoretical points. First, judgment-proof fossil fuel companies are making it difficult for environmental regulators to manage the decline of extractive industries. Second, significant cleanup liability may, counterintuitively, encourage continued production and lead to worse environmental outcomes as firms with poor environmental records operate at a loss rather than paying for cleanup. Third, the judgment-proof problem creates regulatory challenges not just for individual firms, but across entire industries, since well-capitalized firms avoid cleanup by transferring burdensome assets to judgment proof companies. Fourth, the decline of coal mining has created an adverse selection problem in the market for reclamation-bond insurance. As solvent insurers have exited, one severely undercapitalized company—Indemnity National—now underwrites up to seventy percent of reclamation bonds in Appalachia. We conclude by proposing reforms that would improve environmental outcomes in markets that have already seen significant liability partitioning, and also describe best financial assurance practices to ensure that decommissioning funds are available in markets that have yet to encounter the emergence of too-liable-to-fail firms.</p>
+  </div>
+</div>
 * A Market Based Approach to Public Utility Ratemaking (with [Mark Ellis](https://www.economicliberties.us/mark-ellis/) and [Josh Macey](https://law.yale.edu/joshua-macey))
 * Rethinking the Politics of Abundance (with [Yehonatan Givati](https://law.yale.edu/yehonatan-givati) and Kishore Chundi)
 
