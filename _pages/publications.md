@@ -156,3 +156,4 @@ function toggleAbstract(id) {
   <div class="coauthors">with <a href="https://law.yale.edu/ian-ayres">Ian Ayres</a>, Spurthi Jonnalagadda and <a href="https://law.ua.edu/faculty_staff/fredrick-vars/">Fredrick Vars</a></div>
 </div>
 
+## Inactive
