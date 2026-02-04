@@ -65,7 +65,7 @@ redirect_from:
 ## Working Papers
 
 <div class="publication-item">
-* The Economic Consequences of Foreclosure Suspensions in the Great Depression (with [Ewan Rawcliffe](https://ewanrawcliffe.com/))
+* The Economic Consequences of Foreclosure Suspensions in the Great Depression (with <a href="https://ewanrawcliffe.com/">Ewan Rawcliffe</a>)
   <div class="publication-buttons">
     <a href="#" class="btn btn--info">Draft on request</a>
     <button class="btn btn--primary" onclick="toggleAbstract('foreclosure-abstract')">Abstract</button>
