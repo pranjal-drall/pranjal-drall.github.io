@@ -114,7 +114,7 @@ function toggleAbstract(id) {
 </div>
 
 <div class="publication-item">
-  <div class="publication-title">Rethinking the Politics of Abundance</div>
+  <div class="publication-title">Who Really Opposes Zoning Reform? Public Opinion, the Abundance Agenda, and the Limits of State Preemption</div>
   <div class="coauthors">with Kishore Chundi and <a href="https://law.yale.edu/yehonatan-givati">Yehonatan Givati</a></div>
 </div>
 
