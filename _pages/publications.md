@@ -12,8 +12,28 @@ redirect_from:
   margin-bottom: 30px;
 }
 
+.publication-title {
+  font-size: 1.05em;
+  margin-bottom: 2px;
+}
+
+.coauthors {
+  font-size: 0.92em;
+  color: #6c757d;
+  margin-top: 2px;
+  margin-bottom: 6px;
+}
+
+.coauthors a {
+  color: #5bc0de;
+}
+
+.coauthors a:hover {
+  color: #31b0d5;
+}
+
 .publication-buttons {
-  margin-top: 10px;
+  margin-top: 8px;
 }
 
 .publication-buttons .btn {
@@ -26,26 +46,26 @@ redirect_from:
   font-size: 0.9em;
 }
 
-.btn--primary {
-  background-color: #7a8288;
-  color: white;
-  border: none;
-  cursor: pointer;
-}
-
-.btn--primary:hover {
-  background-color: #5a6268;
-}
-
-.btn--info {
+.btn--abstract {
   background-color: #5bc0de;
   color: white;
   border: none;
   cursor: pointer;
 }
 
-.btn--info:hover {
+.btn--abstract:hover {
   background-color: #31b0d5;
+}
+
+.btn--draft {
+  background-color: #52575b;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.btn--draft:hover {
+  background-color: #3a3f42;
 }
 
 .abstract-content {
@@ -65,10 +85,11 @@ redirect_from:
 ## Working Papers
 
 <div class="publication-item">
-* The Economic Consequences of Foreclosure Suspensions in the Great Depression (with [Ewan Rawcliffe](https://ewanrawcliffe.com/))
+  <div class="publication-title">The Economic Consequences of Foreclosure Suspensions in the Great Depression</div>
+  <div class="coauthors">with <a href="https://ewanrawcliffe.com/">Ewan Rawcliffe</a></div>
   <div class="publication-buttons">
-    <a href="#" class="btn btn--info">Draft on request</a>
-    <button class="btn btn--primary" onclick="toggleAbstract('foreclosure-abstract')">Abstract</button>
+    <button class="btn btn--abstract" onclick="toggleAbstract('foreclosure-abstract')">Abstract</button>
+    <a href="#" class="btn btn--draft">Draft on request</a>
   </div>
   <div id="foreclosure-abstract" class="abstract-content">
     <p>We study the effects of mortgage forbearance on local economies and individuals. During the Great Depression, twenty-five states adopted foreclosure moratoria that temporarily prevented lenders from seizing farms. By interrupting foreclosures during systemic crises, forbearance policies can avert fire sales, stabilize bank balance sheets, and dampen credit contractions. At the same time, they can raise the cost of capital and entrench land in the hands of less productive operators. We empirically evaluate these trade-offs using county-level agricultural data and linked full-count census records. We show that the moratoria preserved at least 250,000 farms nationwide and that counties most exposed to mortgages—and thus foreclosure risk—experienced a persistent 15% increase in the number of farms. Farmers protected by the policy, and their children, were significantly more likely to remain in agriculture and less likely to transition into manufacturing even two decades later. The moratoria shifted agricultural production toward smaller, more labor-intensive farms operating on more marginal land with lower capital intensity. The resulting delay in consolidation depressed farm revenues and asset values. At the same time, the policies raised local borrowing costs by roughly 10% during a period of substantial interest-rate convergence. We also find suggestive evidence that highly exposed counties developed weaker manufacturing sectors in the long run, consistent with slower labor reallocation out of agriculture. Taken together, our results show that well-intentioned policies that temporarily suspend creditor remedies can have significant long-run costs.</p>
@@ -86,9 +107,35 @@ function toggleAbstract(id) {
 }
 </script>
 
-* Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production (with [Josh Macey](https://law.yale.edu/joshua-macey) and Terra Baer)
-* A Market Based Approach to Public Utility Ratemaking (with [Mark Ellis](https://www.economicliberties.us/mark-ellis/) and [Josh Macey](https://law.yale.edu/joshua-macey))
-* Rethinking the Politics of Abundance (with [Yehonatan Givati](https://law.yale.edu/yehonatan-givati) and Kishore Chundi)
+<div class="publication-item">
+  <div class="publication-title">Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production</div>
+  <div class="coauthors">with <a href="https://law.yale.edu/joshua-macey">Josh Macey</a> and Terra Baer</div>
+  <div class="publication-buttons">
+    <button class="btn btn--abstract" onclick="toggleAbstract('too-liable-abstract')">Abstract</button>
+    <a href="#" class="btn btn--draft">Draft on request</a>
+  </div>
+  <div id="too-liable-abstract" class="abstract-content">
+    <p>This Article describes the emergence of "too-liable-to-regulate" fossil fuel companies: firms whose environmental liabilities are so large that they effectively become judgment-proof, enabling them to evade remediation and decommissioning obligations. Although liability is typically thought to reduce production and deter corporate misconduct, large cleanup liabilities can insulate companies from regulatory enforcement, since regulators may hesitate to pursue enforcement that would push distressed firms into liquidation.</p>
+    <p>To understand how the judgment-proof problem is affecting fossil fuel asset remediation, we compile every domestic coal mine reclamation (cleanup) and onshore gas plug and abandonment (P&A) law and calculate cleanup obligations for two companies: Diversified Energy, the largest oil and gas well owner in the United States, and Indemnity National, the country's largest insurer of coal mine reclamation obligations. Our estimates show that both firms' continued operation depends on predictable underenforcement of cleanup and decommissioning laws.</p>
+    <p>Our analysis of Diversified and Indemnity supports four theoretical points. First, judgment-proof fossil fuel companies are making it difficult for environmental regulators to manage the decline of extractive industries. Second, significant cleanup liability may, counterintuitively, encourage continued production and lead to worse environmental outcomes as firms with poor environmental records operate at a loss rather than paying for cleanup. Third, the judgment-proof problem creates regulatory challenges not just for individual firms, but across entire industries, since well-capitalized firms avoid cleanup by transferring burdensome assets to judgment proof companies. Fourth, the decline of coal mining has created an adverse selection problem in the market for reclamation-bond insurance. As solvent insurers have exited, one severely undercapitalized company—Indemnity National—now underwrites up to seventy percent of reclamation bonds in Appalachia. We conclude by proposing reforms that would improve environmental outcomes in markets that have already seen significant liability partitioning, and also describe best financial assurance practices to ensure that decommissioning funds are available in markets that have yet to encounter the emergence of too-liable-to-fail firms.</p>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">A Market Based Approach to Public Utility Ratemaking</div>
+  <div class="coauthors">with <a href="https://www.economicliberties.us/mark-ellis/">Mark Ellis</a> and <a href="https://law.yale.edu/joshua-macey">Josh Macey</a></div>
+  <div class="publication-buttons">
+    <a href="#" class="btn btn--draft">Draft on request</a>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">Rethinking the Politics of Abundance</div>
+  <div class="coauthors">with <a href="https://law.yale.edu/yehonatan-givati">Yehonatan Givati</a> and Kishore Chundi</div>
+  <div class="publication-buttons">
+    <a href="#" class="btn btn--draft">Draft on request</a>
+  </div>
+</div>
 
 ## Publications
 
