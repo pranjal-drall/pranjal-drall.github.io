@@ -86,8 +86,6 @@ function toggleAbstract(id) {
 }
 </script>
 
-* Never Enough: Dynamic Status Incentives in Organizations (with [Leonardo Bursztyn](https://sites.google.com/view/leonardobursztyn) and [Hans-Joachim Voth](https://sites.google.com/site/hjvoth/))
-* Regime Change and State Capacity (with [Austin L. Wright](https://austinlwright.com/))
 * Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production (with [Josh Macey](https://law.yale.edu/joshua-macey) and Terra Baer)
 * A Market Based Approach to Public Utility Ratemaking (with [Mark Ellis](https://www.economicliberties.us/mark-ellis/) and [Josh Macey](https://law.yale.edu/joshua-macey))
 * Rethinking the Politics of Abundance (with [Yehonatan Givati](https://law.yale.edu/yehonatan-givati) and Kishore Chundi)
