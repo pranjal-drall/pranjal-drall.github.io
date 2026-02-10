@@ -39,11 +39,11 @@ redirect_from:
 .publication-buttons .btn {
   margin-right: 10px;
   margin-bottom: 10px;
-  padding: 8px 16px;
+  padding: 4px 10px;
   border-radius: 4px;
   text-decoration: none;
   display: inline-block;
-  font-size: 0.9em;
+  font-size: 0.8em;
 }
 
 .btn--abstract {
