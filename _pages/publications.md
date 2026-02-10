@@ -114,8 +114,14 @@ function toggleAbstract(id) {
 </div>
 
 <div class="publication-item">
-  <div class="publication-title">Who Really Opposes Zoning Reform? Public Opinion, the Abundance Agenda, and the Limits of State Preemption</div>
+  <div class="publication-title">The Limits of Zoning Preemption: Public Opinion and the Abundance Agenda</div>
   <div class="coauthors">with Kishore Chundi and <a href="https://law.yale.edu/yehonatan-givati">Yehonatan Givati</a></div>
+  <div class="publication-buttons">
+    <button class="btn btn--abstract" onclick="toggleAbstract('zoning-abstract')">Abstract</button>
+  </div>
+  <div id="zoning-abstract" class="abstract-content">
+    <p>Proponents of the "Abundance Agenda" claim that opposition to zoning reform stems from narrow local constituencies, especially homeowners protecting property values. Since local politics is uniquely susceptible to capture by incumbents who benefit from housing scarcity, the prescribed policy solution is state or federal preemption of local land-use authority. This Article challenges that claim using a nationally representative survey of 60,000 voters in the 2024 election. This unusually large and rich dataset allows us to measure individual-level determinants of support for zoning reform while holding constant demographics, ideology, and neighborhood characteristics. We find limited support for several canonical NIMBY theories of restrictive zoning. Homeowners are indeed less supportive than renters, but the gap is modest. White respondents are less supportive than Black respondents, and racial resentment is strongly predictive of opposition to zoning reform, suggesting that racial exclusion remains a relevant explanation. Income, however, exhibits little independent relationship with zoning attitudes. Contrary to popular belief, liberals and voters concerned about the environment are more, not less, likely to support reform. We also identify two factors the literature has largely ignored: women are substantially less supportive than men (by a margin larger than the homeownership gap), and trust in state government strongly predicts support for zoning liberalization. These patterns suggest that many voters evaluate zoning reform primarily through its expected effects on school capacity, traffic, and public safety rather than through ideological or financial self-interest. Our findings cast doubt on the view that state or federal preemption alone can resolve political resistance to zoning reform. Shifting authority to state or federal governments may bypass local veto points, but it cannot eliminate the democratic constraints that drive opposition. We conclude that while bypassing local exclusionary tendencies through top-down governance is important, durable reform requires bottom-up coalition-building that addresses voter concerns about service quality and institutional competence.</p>
+  </div>
 </div>
 
 ## Publications
