@@ -115,8 +115,8 @@ function toggleAbstract(id) {
 
 <div class="publication-item">
   <div class="publication-title">Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production</div>
-  <div class="coauthors"><em>115 California Law Review __</em> (forthcoming 2027)</div>
   <div class="coauthors">with Terra Baer and <a href="https://law.yale.edu/joshua-macey">Josh Macey</a></div>
+  <div class="coauthors"><em>115 California Law Review __</em> (forthcoming 2027)</div>
   <div class="publication-buttons">
     <button class="btn btn--abstract" onclick="toggleAbstract('too-liable-abstract')">Abstract</button>
   </div>
@@ -134,14 +134,14 @@ function toggleAbstract(id) {
 
 <div class="publication-item">
   <div class="publication-title">Racial and Gender Bias in Child Maltreatment Reporting Decisions: Results of a Randomized Vignette Experiment</div>
-  <div class="coauthors"><em>21 UC Law SF Race & Econ. Just. L.J. 183</em> (2024)</div>
   <div class="coauthors">with Ian Ayres and Sonia Qin</div>
+  <div class="coauthors"><em>21 UC Law SF Race & Econ. Just. L.J. 183</em> (2024)</div>
 </div>
 
 <div class="publication-item">
   <div class="publication-title">Guns and Property Preference: Testing the Impact of Gilles and Cynicism Conjectures Using Survey Data</div>
-  <div class="coauthors"><em>39 Quinnipiac Law Review</em> (2021)</div>
   <div class="coauthors">with <a href="https://law.yale.edu/ian-ayres">Ian Ayres</a>, Spurthi Jonnalagadda and <a href="https://law.ua.edu/faculty_staff/fredrick-vars/">Fredrick Vars</a></div>
+  <div class="coauthors"><em>39 Quinnipiac Law Review</em> (2021)</div>
 </div>
 
 ## Inactive
