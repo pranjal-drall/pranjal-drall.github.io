@@ -97,7 +97,28 @@ function toggleAbstract(id) {
 
 <div class="publication-item">
   <div class="publication-title">A Market Based Approach to Public Utility Ratemaking</div>
-  <div class="coauthors">with <a href="https://www.economicliberties.us/mark-ellis/">Mark Ellis</a> and <a href="https://law.yale.edu/joshua-macey">Josh Macey</a></div>
+  <div class="coauthors">with <a href="https://www.economicliberties.us/mark-ellis/">Mark Ellis</a>, <a href="https://law.yale.edu/joshua-macey">Josh Macey</a>, and <a href="https://law.yale.edu/jonathan-r-macey">Jonathon Macey</a></div>
+  <div class="publication-buttons">
+    <button class="btn btn--abstract" onclick="toggleAbstract('ratemaking-abstract')">Abstract</button>
+  </div>
+  <div id="ratemaking-abstract" class="abstract-content">
+    <p>Electricity rates in the United States have risen sharply over the past decade, outpacing inflation and imposing significant costs on households and businesses. While many forces contribute to higher bills, including infrastructure investment, wildfire liability, and rising demand, one underappreciated driver is persistent overcompensation of investor-owned utilities. Under traditional cost-of-service regulation, state commissions administratively determine utilities' allowed return on equity (ROE) using contested financial models. Decades of empirical evidence indicate that these methods systematically authorize returns above utilities' true cost of equity, generating billions of dollars annually in excess profits. Because every basis point of authorized ROE applies to billions in rate base, even small overestimates translate into substantial wealth transfers from captive ratepayers to shareholders.</p>
+    <p>This Article proposes a market-based solution to this problem: Competitive Direct Equity (CDE). Under CDE, utilities would raise new equity capital through standardized auctions in which investors bid the return they are willing to accept. The auction-clearing return becomes the allowed ROE for that tranche of equity, directly revealing the market cost of capital rather than inferring it from disputed models. CDE eliminates capital bias by aligning the return on equity with its opportunity cost over time.</p>
+    <p>Finally, we show that CDE is lawful under existing doctrine. Supreme Court precedent requires that rates be sufficient to attract capital but not confiscatory; it does not mandate any particular ratemaking methodology. Because CDE relies on competitive market evidence to establish a commensurate return, it meets the constitutional standard by demonstrating that rates are high enough to attract capital.</p>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">Private Credit, Public Risk: How Private Equity Exploits Insurance Guaranty Funds</div>
+  <div class="coauthors">with <a href="https://sites.google.com/view/andrewgranato/">Andrew Granato</a></div>
+  <div class="publication-buttons">
+    <button class="btn btn--abstract" onclick="toggleAbstract('private-credit-abstract')">Abstract</button>
+  </div>
+  <div id="private-credit-abstract" class="abstract-content">
+    <p>Private equity firms have acquired life insurers and loaded their balance sheets with private credit assets that are illiquid, opaque, and difficult for regulators to value. Between 2017 and 2024, the share of "privately placed" assets on PE-owned insurer balance sheets rose from 6 percent to 14 percent. PE-owned insurers now hold nearly 40 percent of the industry's private credit holdings despite controlling only 14 percent of general-account assets. This Article shows that the state guaranty fund system, which requires solvent insurers to cover the policyholder claims of a failed competitor, creates a hidden subsidy that PE-owned insurers exploit in three ways.</p>
+    <p>First, PE-owned insurers hold riskier portfolios than their reported capital suggests because NAIC risk-based capital charges rely on classifications and marks that the sponsor or its affiliate controls. Second, the PE sponsor's affiliated asset-management platform collects advisory, structuring, and monitoring fees from the insurer while retaining discretion over which assets to place on its balance sheet. This creates incentives to move underperforming or hard-to-sell assets onto the insurer's balance sheet while keeping high-performing assets for sophisticated limited partners. Third, the guaranty fund assessment formula charges surviving insurers based on premium volume rather than risk contribution, so conservatively managed insurers subsidize aggressive ones in equilibrium. These costs, at least partially, are borne by taxpayers because, in most states, guaranty fund assessments are offset against premium taxes, which reduces state revenue.</p>
+    <p>Current scholarly and policy debate has focused on the promise and peril of retail exposure to private credit through 401(k) plans. This Article contributes to that debate by identifying a channel that has largely been overlooked: millions of Americans already hold private credit risk through life insurance policies and annuities backed by PE-owned insurers. Unlike a 401(k) participant choosing to invest in an alternative asset fund, the typical policyholder has no idea that such exposure exists. We propose structural reforms to the solvency and guaranty-fund regimes, including independent valuation of private credit assets, mandatory disclosure of affiliate transactions, and a risk-based assessment regime that captures opacity, illiquidity, and affiliate exposure.</p>
+  </div>
 </div>
 
 <div class="publication-item">
@@ -130,7 +151,17 @@ function toggleAbstract(id) {
 <div class="publication-item">
   <div class="publication-title">Make Whole Litigation in Bankruptcy</div>
   <div class="coauthors"><em>43 Yale Journal on Regulation ___</em> (forthcoming 2026)</div>
+  <div class="publication-buttons">
+    <button class="btn btn--abstract" onclick="toggleAbstract('make-whole-abstract')">Abstract</button>
+  </div>
+  <div id="make-whole-abstract" class="abstract-content">
+    <p>Make-whole provisions appear in over ninety percent of corporate bond issuances. They are a mechanism to compensate bondholders when issuers prepay by imposing a penalty equivalent to the present value of remaining payments discounted at Treasury yields plus a modest spread. Outside of bankruptcy, these provisions generate little controversy, but inside bankruptcy, they have produced significant litigation over three questions: whether acceleration extinguishes the premium, whether the Bankruptcy Code's prohibition on unmatured interest disallows such penalties, and whether solvent debtors must pay it anyway.</p>
+    <p>This Note makes three arguments. First, despite apparent doctrinal divergence across the Second, Third, and Fifth Circuits, courts are converging on a common approach that turns on contractual clarity and, in limited cases, debtor solvency. The key decisions in <em>AMR</em>, <em>Momentive</em>, <em>Energy Future Holdings</em>, <em>Ultra Petroleum</em>, and <em>Hertz</em> reach different results because they interpret materially different contract language, not because they apply conflicting legal principles. Second, the solvent-debtor exception is best understood not as a historical artifact but as a mechanism for enforcing absolute priority. When a solvent debtor distributes value to equityholders while using Section 502(b)(2) to deny creditors postpetition interest, the statutory disallowance operates as a backdoor priority violation. Third, make-whole premiums triggered by bankruptcy function as distress-contingent, equity-like claims. The standard formula does not adjust for deteriorating credit quality, which produces a payoff that grows as the issuer's financial health weakens.</p>
+    <p>This asymmetric structure resembles a call option on the debtor's credit spread and delivers its greatest value precisely when the estate has the least capacity to satisfy other creditors. Rather than disallowing these claims under Section 502(b)(2) or enforcing them at parity, this Note proposes that courts subordinate bankruptcy-triggered make-whole premiums under Section 510(c). Subordination preserves make-whole provisions' legitimate deterrent function through three safe harbors for prepetition acceleration, voluntary redemption, and market-rate discounting, while preventing the distress-amplified windfalls that distort bankruptcy's distributional scheme.</p>
+  </div>
 </div>
+
+## Pre-PhD Publications
 
 <div class="publication-item">
   <div class="publication-title">Racial and Gender Bias in Child Maltreatment Reporting Decisions: Results of a Randomized Vignette Experiment</div>
