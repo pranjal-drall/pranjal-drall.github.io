@@ -2,76 +2,12 @@
 layout: single
 permalink: /publications/
 title: ""
-author_profile: true
+author_profile: false
 redirect_from:
   - /research
 ---
 
-<style>
-.publication-item {
-  margin-bottom: 30px;
-}
-
-.publication-title {
-  font-size: 1.05em;
-  margin-bottom: 2px;
-}
-
-.coauthors {
-  font-size: 0.92em;
-  color: #6c757d;
-  margin-top: 2px;
-  margin-bottom: 6px;
-}
-
-.coauthors a {
-  color: #5bc0de;
-}
-
-.coauthors a:hover {
-  color: #31b0d5;
-}
-
-.publication-buttons {
-  margin-top: 8px;
-}
-
-.publication-buttons .btn {
-  margin-right: 10px;
-  margin-bottom: 10px;
-  padding: 4px 10px;
-  border-radius: 4px;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 0.8em;
-}
-
-.btn--abstract {
-  background-color: #5bc0de;
-  color: white;
-  border: none;
-  cursor: pointer;
-}
-
-.btn--abstract:hover {
-  background-color: #31b0d5;
-}
-
-.abstract-content {
-  display: none;
-  margin-top: 20px;
-  padding: 20px;
-  border: 1px solid #ddd;
-  background-color: #f9f9f9;
-  border-radius: 4px;
-}
-
-.abstract-content.show {
-  display: block;
-}
-</style>
-
-## Working Papers
+<h2 class="research-section">Working Papers</h2>
 
 <div class="publication-item">
   <div class="publication-title">The Economic Consequences of Foreclosure Suspensions in the Great Depression</div>
@@ -132,7 +68,7 @@ function toggleAbstract(id) {
   </div>
 </div>
 
-## Publications
+<h2 class="research-section">Publications</h2>
 
 <div class="publication-item">
   <div class="publication-title">Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production</div>
@@ -161,7 +97,7 @@ function toggleAbstract(id) {
   </div>
 </div>
 
-## Pre-PhD Publications
+<h2 class="research-section">Pre-PhD Publications</h2>
 
 <div class="publication-item">
   <div class="publication-title">Racial and Gender Bias in Child Maltreatment Reporting Decisions: Results of a Randomized Vignette Experiment</div>
@@ -175,7 +111,7 @@ function toggleAbstract(id) {
   <div class="coauthors"><em>39 Quinnipiac Law Review</em> (2021)</div>
 </div>
 
-## Inactive
+<h2 class="research-section">Inactive</h2>
 
 <div class="publication-item">
   <div class="publication-title">Can Supply Shocks Facilitate Collusion? Evidence from the Boeing 737 MAX Grounding</div>
