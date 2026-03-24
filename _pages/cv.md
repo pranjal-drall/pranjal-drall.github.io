@@ -31,21 +31,25 @@ Education
 
 Experience
 ======
-* **Latham & Watkins LLP**, Washington, DC
+* Latham & Watkins LLP, Washington, DC
   * Summer Associate (2025)
 
-* **Holwell Shuster & Goldberg LLP**, New York, NY
+* Holwell Shuster & Goldberg LLP, New York, NY
   * Summer Associate (2024)
 
-* **Susman Godfrey LLP**, Houston, TX
+* Susman Godfrey LLP, Houston, TX
   * Summer Associate (2024)
 
-* **The University of Chicago**, Chicago, IL
+* The University of Chicago, Chicago, IL
   * Predoctoral Fellow (Thom Covert and Ryan Kellogg) (2021-23)
 
-* **Yale Law School**, New Haven, CT
+* Yale Law School, New Haven, CT
   * Research Fellow (Ian Ayres) (2020-21)
 
-Interests
-=====
-Outside of research, I play tennis, root for the Green Bay Packers, and watch a lot of arthouse film.
+Teaching
+======
+* Teaching Assistant, Procedure (Harold Koh)
+* Teaching Assistant, Business Organizations (Sarath Sanga)
+* Teaching Assistant, Constitutional Law (Samuel Moyn)
+* Teaching Assistant, Corporate Finance (Chris Clayton)
+

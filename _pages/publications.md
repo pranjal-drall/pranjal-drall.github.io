@@ -165,7 +165,7 @@ function toggleAbstract(id) {
 
 <div class="publication-item">
   <div class="publication-title">Racial and Gender Bias in Child Maltreatment Reporting Decisions: Results of a Randomized Vignette Experiment</div>
-  <div class="coauthors">with Ian Ayres and Sonia Qin</div>
+  <div class="coauthors">with <a href="https://law.yale.edu/ian-ayres">Ian Ayres</a> and Sonia Qin</div>
   <div class="coauthors"><em>21 UC Law SF Race & Econ. Just. L.J. 183</em> (2024)</div>
 </div>
 
