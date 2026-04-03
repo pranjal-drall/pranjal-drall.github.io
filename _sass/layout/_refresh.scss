@@ -7,6 +7,7 @@
   --global-bg-color: #ffffff;
   --global-footer-bg-color: #ffffff;
   --global-border-color: rgba(22, 56, 76, 0.14);
+  --global-nav-rule-color: rgba(22, 56, 76, 0.28);
   --global-dark-border-color: rgba(22, 56, 76, 0.22);
   --global-code-background-color: #f6f8fa;
   --global-code-text-color: #222;
@@ -26,6 +27,7 @@ html[data-theme="dark"] {
   --global-bg-color: #15181b;
   --global-footer-bg-color: #15181b;
   --global-border-color: rgba(255, 255, 255, 0.14);
+  --global-nav-rule-color: rgba(255, 255, 255, 0.3);
   --global-dark-border-color: rgba(255, 255, 255, 0.24);
   --global-code-background-color: #1f2327;
   --global-code-text-color: #f5f7fa;
@@ -43,6 +45,10 @@ html[data-theme="dark"] {
 html,
 body {
   background: var(--global-bg-color);
+}
+
+body {
+  padding-top: 0;
 }
 
 body,
@@ -104,7 +110,7 @@ blockquote {
 
 #main {
   @include container;
-  margin-top: 4.6rem;
+  margin-top: 4.35rem;
   padding-left: 1.25rem;
   padding-right: 1.25rem;
   max-width: 1400px;
@@ -123,19 +129,28 @@ blockquote {
   }
 
   &__inner-wrap {
-    position: relative;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
-    min-height: 3.75rem;
-    padding: 0.7rem 1.25rem 0.45rem;
+    justify-content: center;
+    gap: 1rem;
+    min-height: 0;
+    padding: 1.1rem 1.25rem 0.45rem;
   }
 }
 
 .masthead__nav {
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  gap: 1.7rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.4rem;
+  padding-right: 0.4rem;
+  border-top: 1px solid var(--global-nav-rule-color);
+  border-bottom: 1px solid var(--global-nav-rule-color);
 }
 
 .masthead__nav-link {
@@ -152,12 +167,11 @@ blockquote {
 }
 
 .masthead__title {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   font-weight: 700;
+  font-size: 1.42rem;
+  line-height: 1.05;
 }
 
 .sidebar,
@@ -329,23 +343,21 @@ table {
 
 @include breakpoint(max-width $medium) {
   #main {
-    margin-top: 4.7rem;
+    margin-top: 4.85rem;
   }
 
   .masthead__inner-wrap {
-    min-height: 3.5rem;
-    align-items: flex-start;
-    flex-direction: column;
-    gap: 0.45rem;
-  }
-
-  .masthead__title {
-    position: static;
-    transform: none;
+    gap: 0.75rem;
+    padding: 0.85rem 1rem 0.35rem;
   }
 
   .masthead__nav {
-    gap: 1.2rem;
-    flex-wrap: wrap;
+    gap: 0.65rem 0.95rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+  }
+
+  .masthead__title {
+    font-size: 1.22rem;
   }
 }
