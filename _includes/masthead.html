@@ -1,6 +1,7 @@
 {% include base_path %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
+    <div class="masthead__title">{{ site.title }}</div>
     <nav class="masthead__nav" aria-label="Primary">
       <a class="masthead__nav-link {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}" href="{{ base_path }}/">Home</a>
       {% for link in site.data.navigation.main %}
@@ -12,6 +13,5 @@
         <a class="masthead__nav-link {% if page.url contains link.url and link.url != '/' %}selected{% endif %}" href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
       {% endfor %}
     </nav>
-    <div class="masthead__title">{{ site.title }}</div>
   </div>
 </div>
