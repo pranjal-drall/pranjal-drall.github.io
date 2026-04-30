@@ -24,6 +24,7 @@ function toggleAbstract(id) {
   <div class="coauthors"><em>115 California Law Review __</em> (forthcoming 2027)</div>
   <div class="publication-buttons">
     <button class="btn btn--abstract" onclick="toggleAbstract('too-liable-abstract')">Abstract</button>
+    <a class="btn btn--primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6524879">SSRN</a>
   </div>
   <div id="too-liable-abstract" class="abstract-content">
     <p>This Article describes the emergence of "too-liable-to-regulate" fossil fuel companies: firms whose environmental liabilities are so large that they effectively become judgment-proof, enabling them to evade remediation and decommissioning obligations. Although liability is typically thought to reduce production and deter corporate misconduct, large cleanup liabilities can insulate companies from regulatory enforcement, since regulators may hesitate to pursue enforcement that would push distressed firms into liquidation.</p>

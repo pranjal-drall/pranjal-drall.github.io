@@ -1,0 +1,15 @@
+Configuration file: D:/website/_config.yml
+            Source: D:/website
+       Destination: D:/website/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 3.595 seconds.
+ Auto-regeneration: enabled for 'D:/website'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2026-04-30 20:25:11
+                    _pages/publications.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.1596514 seconds.
+                    
