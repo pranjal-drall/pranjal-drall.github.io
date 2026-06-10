@@ -26,6 +26,7 @@ function toggleAbstract(id) {
   <div class="publication-title">Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production</div>
   <div class="coauthors">with Terra Baer and <a href="https://law.yale.edu/joshua-macey">Josh Macey</a></div>
   <div class="coauthors"><em>115 California Law Review __</em> (forthcoming 2027)</div>
+  <div class="coauthors paper-detail"><strong>Coverage</strong> <a href="https://corpgov.law.harvard.edu/2026/06/09/too-liable-to-regulate-the-hidden-costs-of-fossil-fuel-decommissioning-and-remediation/">Harvard Law School Forum on Corporate Governance</a></div>
   <div class="publication-buttons">
     <button class="btn btn--abstract" onclick="toggleAbstract('too-liable-abstract')">Abstract</button>
     <a class="btn btn--primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6524879">SSRN</a>
