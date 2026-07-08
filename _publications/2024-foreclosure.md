@@ -5,12 +5,12 @@ permalink: /publications/foreclosure-suspensions
 excerpt: 'We study the effects of mortgage forbearance on local economies and individuals during the Great Depression.'
 date: 2024-01-02
 authors: 'with <a href="#">Pranjal Drall</a>'
-paperurl: ''
+paperurl: '/files/farms_draft.pdf'
 citation: ''
 ---
 
 <div class="publication-buttons">
-  <a href="#" class="btn btn--info">Draft on request</a>
+  <a href="/files/farms_draft.pdf" class="btn btn--info">Draft</a>
   <button class="btn btn--primary" onclick="toggleAbstract('foreclosure-abstract')">Abstract</button>
 </div>
 
