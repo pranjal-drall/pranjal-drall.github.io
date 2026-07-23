@@ -88,6 +88,7 @@ function toggleAbstract(id) {
   <div class="coauthors paper-detail"><strong>Presentations</strong> Vanderbilt Policy Accelerator (2026)</div>
   <div class="publication-buttons">
     <button class="btn btn--abstract" onclick="toggleAbstract('private-credit-abstract')">Abstract</button>
+    <a class="btn btn--primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7152239">SSRN</a>
   </div>
   <div id="private-credit-abstract" class="abstract-content">
     <p>Private equity (PE) sponsors have acquired life insurers and increasingly loaded their balance sheets with private credit assets that are illiquid, risky, and difficult for regulators to value. This Article identifies how PE profits from these insurers while shifting the resulting risk onto competitors and taxpayers.</p>
