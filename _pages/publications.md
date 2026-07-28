@@ -87,8 +87,12 @@ function toggleAbstract(id) {
 <div class="publication-item">
   <div class="publication-title">A Market Based Approach to Public Utility Ratemaking</div>
   <div class="coauthors">with <a href="https://www.economicliberties.us/mark-ellis/">Mark Ellis</a>, <a href="https://law.yale.edu/joshua-macey">Josh Macey</a>, and <a href="https://law.yale.edu/jonathan-r-macey">Jonathon Macey</a></div>
+  {% comment %}
+  Temporarily hidden from the publications page on July 28, 2026. Remove this
+  Liquid comment block to restore the Coverage and Policy rows.
   <div class="coauthors paper-detail"><strong>Coverage</strong> <a href="https://whyy.org/articles/pennsylvania-governor-josh-shapiro-utilities-letter-corporate-profits/">WHYY</a> | <a href="https://heatmap.news/energy/utilities-greg-abel-josh-shapiro">Heatmap News</a></div>
   <div class="coauthors paper-detail"><strong>Policy</strong> <a href="https://www.palegis.us/legislation/bills/2025/hb2224">Pennsylvania HB 2224</a> | <a href="https://nyassembly.gov/leg/?default_fld=&amp;leg_video=&amp;bn=A11197&amp;term=2025&amp;Summary=Y&amp;Text=Y">New York Assembly A11197</a></div>
+  {% endcomment %}
   <div class="publication-buttons">
     <button class="btn btn--abstract" onclick="toggleAbstract('ratemaking-abstract')">Abstract</button>
   </div>
