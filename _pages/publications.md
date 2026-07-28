@@ -55,10 +55,10 @@ function toggleAbstract(id) {
 <h2 class="research-section">Working Papers</h2>
 
 <div class="publication-item">
-  <div class="publication-title">Private Credit, Public Risk: How Private Equity Exploits Insurance Guaranty Funds</div>
+  <div class="publication-title">Private Credit's State Backstop: How Private Equity Socializes Risk Through Insurers</div>
   <div class="coauthors">with <a href="https://sites.google.com/view/andrewgranato/">Andrew Granato</a></div>
+  <div class="coauthors paper-detail"><strong>Coverage</strong> <a href="https://www.bloomberg.com/news/newsletters/2026-07-24/the-real-reason-behind-the-private-credit-insurance-nexus?srnd=phx-oddlots">Odd Lots (Bloomberg)</a> | <a href="https://www.reuters.com/commentary/breakingviews/insurance-double-play-is-more-than-inside-baseball-2026-07-28/">Reuters Breakingviews: Insurance double play is more than inside baseball</a> | <a href="https://michaeljburry.substack.com/p/short-thoughts-june-24-2026-offshore">Michael Burry (Substack)</a></div>
   <div class="coauthors paper-detail"><strong>Presentations</strong> Vanderbilt Policy Accelerator (2026)</div>
-  <div class="coauthors paper-detail"><strong>Engagement</strong> <a href="https://www.bloomberg.com/news/newsletters/2026-07-24/the-real-reason-behind-the-private-credit-insurance-nexus?srnd=phx-oddlots">Bloomberg Odd Lots</a></div>
   <div class="publication-buttons">
     <button class="btn btn--abstract" onclick="toggleAbstract('private-credit-abstract')">Abstract</button>
     <a class="btn btn--primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7152239">SSRN</a>
