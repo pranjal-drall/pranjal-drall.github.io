@@ -16,20 +16,20 @@
   },
   "work": [
     {
-      "company": "Latham & Watkins LLP",
-      "position": "Summer Associate",
-      "location": "Washington, DC",
-      "startDate": "2025-05",
-      "endDate": "2025-07",
-      "summary": "Supported the Carvana trial team by analyzing the standard for class certification in securities fraud cases under Rule 23(b)(3). Drafted a memo outlining the limits of issue preclusion in agency litigation after the McLaughlin decision."
-    },
-    {
       "company": "Holwell Shuster & Goldberg LLP",
       "position": "Summer Associate",
       "location": "New York, NY",
-      "startDate": "2024-06",
-      "endDate": "2024-08",
-      "summary": "Analyzed the viability of tying/refusal-to-deal claims against a major tech firm under the Sherman and Cartwright Acts. Supported the Incora bankruptcy trial by analyzing the limits of equitable subordination in an uptier transaction."
+      "startDate": "Summer 2024; Summer 2026",
+      "endDate": "",
+      "summary": "Analyzed the viability of tying/refusal-to-deal claims against a major tech firm. Supported the Incora bankruptcy trial by analyzing the limits of equitable subordination in an uptier transaction."
+    },
+    {
+      "company": "Latham & Watkins LLP",
+      "position": "Summer Associate",
+      "location": "Washington, DC",
+      "startDate": "Summer 2025",
+      "endDate": "",
+      "summary": "Supported the Carvana trial team by analyzing the standard for class certification in securities fraud cases under Rule 23(b)(3). Drafted a memo outlining the limits of issue preclusion in agency litigation after the McLaughlin decision."
     },
     {
       "company": "Susman Godfrey LLP",
@@ -64,7 +64,15 @@
       "startDate": "",
       "endDate": "Expected: 2027 (JD); 2029 (PhD)",
       "gpa": null,
-      "courses": []
+      "courses": [],
+      "honors": [
+        "Judge Ralph K. Winter Jr. Prize for Law and Economics",
+        "Stella M. Hammond Planetary Solutions Fellowship"
+      ],
+      "activities": [
+        "Research Assistant: Sarath Sanga and Bentley MacLeod",
+        "Executive Submissions Editor, Yale Journal on Regulation (Volume 43)"
+      ]
     },
     {
       "institution": "Grinnell College",
@@ -73,22 +81,15 @@
       "startDate": "",
       "endDate": "2020",
       "gpa": null,
-      "courses": []
+      "courses": [],
+      "honors": [
+        "Gilbert DeBartolo '69 Memorial Prize in Economics"
+      ]
     }
   ],
   "skills": [],
   "languages": [],
-  "interests": [
-    {
-      "name": "Arthouse film"
-    },
-    {
-      "name": "Tennis"
-    },
-    {
-      "name": "Green Bay Packers"
-    }
-  ],
+  "interests": [],
   "references": [],
   "publications": [
     {
@@ -129,6 +130,13 @@
   ],
   "presentations": [],
   "teaching": [
+    {
+      "course": "Contracts",
+      "institution": "Yale Law School",
+      "date": "",
+      "role": "Coker Fellow (Yair Listokin)",
+      "description": ""
+    },
     {
       "course": "Procedure",
       "institution": "Yale Law School",

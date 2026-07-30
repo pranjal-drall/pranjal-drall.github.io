@@ -115,6 +115,20 @@ function toggleAbstract(id) {
   </div>
 </div>
 
+<h2 class="research-section">Other Writing</h2>
+
+<div class="publication-item">
+  <div class="publication-title">Birthright Citizenship and the Politics of Constitutional Law</div>
+  <div class="coauthors">with <a href="https://law.yale.edu/samuel-moyn">Samuel Moyn</a></div>
+  <div class="coauthors paper-detail"><strong>Balkinization</strong> <a href="https://balkin.blogspot.com/2026/03/birthright-citizenship-and-politics-of.html">Part I</a> | <a href="https://balkin.blogspot.com/2026/03/birthright-citizenship-and-politics-of_01601314420.html">Part II</a> | <a href="https://balkin.blogspot.com/2026/03/birthright-citizenship-and-politics-of_01017679663.html">Part III</a> (2026)</div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">The Unpersuasive Empiricism Regarding Universal Mail-in Voting Fraud</div>
+  <div class="coauthors">with <a href="https://law.yale.edu/ian-ayres">Ian Ayres</a></div>
+  <div class="coauthors paper-detail"><strong><a class="paper-detail-label-link" href="https://balkin.blogspot.com/2020/10/the-unpersuasive-empiricism-regarding.html">Balkinization</a></strong> (2020)</div>
+</div>
+
 <h2 class="research-section">Pre-PhD Publications</h2>
 
 <div class="publication-item">
