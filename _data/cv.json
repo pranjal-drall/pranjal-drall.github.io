@@ -93,11 +93,18 @@
   "references": [],
   "publications": [
     {
+      "name": "Private Credit's State Backstop: How Private Equity Socializes Risk Through Insurers",
+      "publisher": "California Law Review",
+      "releaseDate": "2027",
+      "website": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7152239",
+      "summary": "115 Cal. L. Rev. ___ (forthcoming 2027); with Andrew Granato"
+    },
+    {
       "name": "Make Whole Litigation in Bankruptcy",
       "publisher": "Yale Journal on Regulation",
       "releaseDate": "2026",
-      "website": "",
-      "summary": "43 Yale Journal on Regulation ___ (forthcoming 2026)"
+      "website": "https://www.yalejreg.com/print/make-whole-litigation-in-bankruptcy/",
+      "summary": "43 Yale Journal on Regulation 1109 (2026)"
     },
     {
       "name": "Too Liable To Regulate: The Hidden Costs of Fossil Fuel Production",
@@ -105,6 +112,13 @@
       "releaseDate": "2027",
       "website": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6524879",
       "summary": "115 California Law Review __ (forthcoming 2027)"
+    },
+    {
+      "name": "Same Loan, Different Marks: Fees, Governance, and Valuation in Private Credit",
+      "publisher": "Working Paper",
+      "releaseDate": "",
+      "website": "",
+      "summary": "with Ben Bates"
     },
     {
       "name": "A Markets Based Approach to Public Utility Ratemaking",
