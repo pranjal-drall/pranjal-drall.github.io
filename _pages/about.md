@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a JD-PhD student in Financial Economics at Yale Law School and the Yale School of Management. My research focuses on financial regulation, bankruptcy, and energy law and policy.
+I am a JD-PhD student in Financial Economics at Yale Law School and the Yale School of Management. I specialize in corporate finance, bankruptcy, and financial regulation, with a focus on environmental issues. My current work studies the consequences of informational frictions for asset valuation across a range of settings.
 
 Prior to graduate school, I was a predoc at the Energy Policy Institute of the University of Chicago ([EPIC](https://epic.uchicago.edu/)) with [Thom Covert](https://www.tcovert.com/) and [Ryan Kellogg](http://kelloggryan.com/) where I worked on misallocation and productivity in the US fracking industry. Before that, I worked with [Ian Ayres](https://ianayres.yale.edu/) at Yale Law School on retirement menu design, gun policy, and other law and economics questions.
 
