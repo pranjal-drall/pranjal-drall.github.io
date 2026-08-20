@@ -80,7 +80,7 @@ function toggleAbstract(id) {
 <div class="publication-item">
   <div class="publication-title">The Economic Consequences of Foreclosure Suspensions in the Great Depression</div>
   <div class="coauthors">with <a href="https://ewanrawcliffe.com/">Ewan Rawcliffe</a></div>
-  <div class="coauthors paper-detail"><strong>Presentations</strong> American Law and Economics Association (2026)</div>
+  <div class="coauthors paper-detail"><strong>Presentations</strong> <a href="https://www.amlecon.org/alea-meeting.html">American Law and Economics Association (2026)</a> | <a href="https://urbaneconomics.org/meetings/uea2026/program.html">Urban Economics Association (2026)</a>*</div>
   <div class="publication-buttons">
     <button class="btn btn--abstract" onclick="toggleAbstract('foreclosure-abstract')">Abstract</button>
     <a class="btn btn--primary" href="/files/farms_draft.pdf">Draft</a>
@@ -154,5 +154,7 @@ function toggleAbstract(id) {
 <div class="publication-item">
   <div class="publication-title">Can Supply Shocks Facilitate Collusion? Evidence from the Boeing 737 MAX Grounding</div>
 </div>
+
+<div class="paper-detail">* Scheduled Presentations</div>
 
 </div>
