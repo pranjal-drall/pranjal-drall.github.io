@@ -49,4 +49,5 @@ redirect_from:
 * Teaching Assistant, Business Organizations (Sarath Sanga)
 * Teaching Assistant, Constitutional Law (Samuel Moyn)
 * Teaching Assistant, Corporate Finance (Chris Clayton)
+* Teaching Assistant, Game Theory (Ben Polak)
 
