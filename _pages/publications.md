@@ -72,12 +72,6 @@ function toggleAbstract(id) {
 <h2 class="research-section">Working Papers</h2>
 
 <div class="publication-item">
-  <div class="publication-title">Same Loan, Different Marks: Fees, Governance, and Valuation in Private Credit</div>
-  <div class="coauthors">with <a href="https://pcg.law.harvard.edu/fellows/">Ben Bates</a></div>
-  <div class="coauthors paper-detail"><strong>Presentations</strong> <a href="https://www.aals.org/sections/list/financial-regulation/">AALS Mid-Year Financial Regulation Workshop (2026)</a> | <a href="https://www.law.northwestern.edu/research-faculty/events/conferences/cels-2026/">Conference on Empirical Legal Studies (CELS, 2026)</a>* | <a href="https://finance-pillar.wharton.upenn.edu/insolvency-restructuring-conference/2026-agenda/">Wharton-Chicago-Harvard Insolvency and Restructuring Conference (2026)</a>*</div>
-</div>
-
-<div class="publication-item">
   <div class="publication-title">The Economic Consequences of Foreclosure Suspensions in the Great Depression</div>
   <div class="coauthors">with <a href="https://ewanrawcliffe.com/">Ewan Rawcliffe</a></div>
   <div class="coauthors paper-detail"><strong>Presentations</strong> <a href="https://www.amlecon.org/alea-meeting.html">American Law and Economics Association (2026)</a> | <a href="https://urbaneconomics.org/meetings/uea2026/program.html">Urban Economics Association (2026)</a>*</div>
@@ -88,6 +82,26 @@ function toggleAbstract(id) {
   <div id="foreclosure-abstract" class="abstract-content">
     <p>We study the effects of mortgage forbearance on local economies and individuals. During the Great Depression, twenty-five states adopted foreclosure moratoria that temporarily prevented lenders from seizing farms. By interrupting foreclosures during systemic crises, forbearance policies can avert fire sales, stabilize bank balance sheets, and dampen credit contractions. At the same time, they can raise the cost of capital and entrench land in the hands of less productive operators. We empirically evaluate these trade-offs using county-level agricultural data and linked full-count census records. We show that the moratoria preserved at least 250,000 farms nationwide and that counties most exposed to mortgages, and thus foreclosure risk, experienced a persistent 15% increase in the number of farms. Farmers protected by the policy, and their children, were significantly more likely to remain in agriculture and less likely to transition into manufacturing even two decades later. The moratoria shifted agricultural production toward smaller, more labor-intensive farms operating on more marginal land with lower capital intensity. The resulting delay in consolidation depressed farm revenues and asset values. At the same time, the policies raised local borrowing costs by roughly 10% during a period of substantial interest-rate convergence. We also find suggestive evidence that highly exposed counties developed weaker manufacturing sectors in the long run, consistent with slower labor reallocation out of agriculture. Taken together, our results show that well-intentioned policies that temporarily suspend creditor remedies can have significant long-run costs.</p>
   </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-title">The Limits of Zoning Preemption: Public Opinion and the Abundance Agenda</div>
+  <div class="coauthors">with Kishore Chundi and <a href="https://law.yale.edu/yehonatan-givati">Yehonatan Givati</a></div>
+  <div class="publication-buttons">
+    <button class="btn btn--abstract" onclick="toggleAbstract('zoning-abstract')">Abstract</button>
+    <a class="btn btn--primary" href="/files/abundance_draft.pdf">Draft</a>
+  </div>
+  <div id="zoning-abstract" class="abstract-content">
+    <p>Proponents of the "Abundance Agenda" claim that opposition to zoning reform stems from narrow local constituencies, especially homeowners protecting property values. Since local politics is uniquely susceptible to capture by incumbents who benefit from housing scarcity, the prescribed policy solution is state or federal preemption of local land-use authority. This Article challenges that claim using a nationally representative survey of 60,000 voters in the 2024 election. This unusually large and rich dataset allows us to measure individual-level determinants of support for zoning reform while holding constant demographics, ideology, and neighborhood characteristics. We find limited support for several canonical NIMBY theories of restrictive zoning. Homeowners are indeed less supportive than renters, but the gap is modest. White respondents are less supportive than Black respondents, and racial resentment is strongly predictive of opposition to zoning reform, suggesting that racial exclusion remains a relevant explanation. Income, however, exhibits little independent relationship with zoning attitudes. Contrary to popular belief, liberals and voters concerned about the environment are more, not less, likely to support reform. We also identify two factors the literature has largely ignored: women are substantially less supportive than men (by a margin larger than the homeownership gap), and trust in state government strongly predicts support for zoning liberalization. These patterns suggest that many voters evaluate zoning reform primarily through its expected effects on school capacity, traffic, and public safety rather than through ideological or financial self-interest. Our findings cast doubt on the view that state or federal preemption alone can resolve political resistance to zoning reform. Shifting authority to state or federal governments may bypass local veto points, but it cannot eliminate the democratic constraints that drive opposition. We conclude that while bypassing local exclusionary tendencies through top-down governance is important, durable reform requires bottom-up coalition-building that addresses voter concerns about service quality and institutional competence.</p>
+  </div>
+</div>
+
+<h2 class="research-section">Works in Progress</h2>
+
+<div class="publication-item">
+  <div class="publication-title">Same Loan, Different Marks: Fees, Governance, and Valuation in Private Credit</div>
+  <div class="coauthors">with <a href="https://pcg.law.harvard.edu/fellows/">Ben Bates</a></div>
+  <div class="coauthors paper-detail"><strong>Presentations</strong> <a href="https://www.aals.org/sections/list/financial-regulation/">AALS Mid-Year Financial Regulation Workshop (2026)</a> | <a href="https://www.law.northwestern.edu/research-faculty/events/conferences/cels-2026/">Conference on Empirical Legal Studies (CELS, 2026)</a>* | <a href="https://finance-pillar.wharton.upenn.edu/insolvency-restructuring-conference/2026-agenda/">Wharton-Chicago-Harvard Insolvency and Restructuring Conference (2026)</a>*</div>
 </div>
 
 <div class="publication-item">
@@ -109,19 +123,7 @@ function toggleAbstract(id) {
   </div>
 </div>
 
-<div class="publication-item">
-  <div class="publication-title">The Limits of Zoning Preemption: Public Opinion and the Abundance Agenda</div>
-  <div class="coauthors">with Kishore Chundi and <a href="https://law.yale.edu/yehonatan-givati">Yehonatan Givati</a></div>
-  <div class="publication-buttons">
-    <button class="btn btn--abstract" onclick="toggleAbstract('zoning-abstract')">Abstract</button>
-    <a class="btn btn--primary" href="/files/abundance_draft.pdf">Draft</a>
-  </div>
-  <div id="zoning-abstract" class="abstract-content">
-    <p>Proponents of the "Abundance Agenda" claim that opposition to zoning reform stems from narrow local constituencies, especially homeowners protecting property values. Since local politics is uniquely susceptible to capture by incumbents who benefit from housing scarcity, the prescribed policy solution is state or federal preemption of local land-use authority. This Article challenges that claim using a nationally representative survey of 60,000 voters in the 2024 election. This unusually large and rich dataset allows us to measure individual-level determinants of support for zoning reform while holding constant demographics, ideology, and neighborhood characteristics. We find limited support for several canonical NIMBY theories of restrictive zoning. Homeowners are indeed less supportive than renters, but the gap is modest. White respondents are less supportive than Black respondents, and racial resentment is strongly predictive of opposition to zoning reform, suggesting that racial exclusion remains a relevant explanation. Income, however, exhibits little independent relationship with zoning attitudes. Contrary to popular belief, liberals and voters concerned about the environment are more, not less, likely to support reform. We also identify two factors the literature has largely ignored: women are substantially less supportive than men (by a margin larger than the homeownership gap), and trust in state government strongly predicts support for zoning liberalization. These patterns suggest that many voters evaluate zoning reform primarily through its expected effects on school capacity, traffic, and public safety rather than through ideological or financial self-interest. Our findings cast doubt on the view that state or federal preemption alone can resolve political resistance to zoning reform. Shifting authority to state or federal governments may bypass local veto points, but it cannot eliminate the democratic constraints that drive opposition. We conclude that while bypassing local exclusionary tendencies through top-down governance is important, durable reform requires bottom-up coalition-building that addresses voter concerns about service quality and institutional competence.</p>
-  </div>
-</div>
-
-<h2 class="research-section">Other Writing</h2>
+<h2 class="research-section">Popular Writing</h2>
 
 <div class="publication-item">
   <div class="publication-title">The Pro Sports Liquidity Escape Hatch</div>
