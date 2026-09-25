@@ -1,8 +1,11 @@
 /* Custom styles for publication pages */
 
+#main:has(.research-page) {
+  margin-top: 1rem;
+}
+
 .research-page {
   width: 100%;
-  padding-top: 3.6rem;
   --research-accent: #123f86;
   --research-text: #1f2933;
   --research-muted: #66717a;
@@ -18,7 +21,7 @@
 
 .page__inner-wrap:has(.research-page) {
   float: none;
-  width: min(100%, 56rem);
+  width: min(100%, 68rem);
   margin-left: auto;
   margin-right: auto;
 }
@@ -193,15 +196,6 @@
 }
 
 @media (max-width: 700px) {
-  .page:has(.research-page) {
-    padding-left: 0.55rem;
-    padding-right: 0.55rem;
-  }
-
-  .research-page {
-    padding-top: 1.75rem;
-  }
-
   .page__content .research-section {
     margin-top: 2.35rem;
     margin-bottom: 0.8rem;
