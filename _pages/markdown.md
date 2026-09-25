@@ -2,6 +2,9 @@
 permalink: /markdown/
 title: "Markdown"
 author_profile: true
+math: true
+mermaid: true
+plotly: true
 redirect_from: 
   - /md/
   - /markdown.html
@@ -22,7 +25,7 @@ redirect_from:
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Profile image (can set in _config.yml): images/profile.webp
 
 ## Tips and hints
 
@@ -93,7 +96,7 @@ graph TD;
 ```
 
 ## Plotly
-Academic Pages includes support for Plotly diagrams via a hook in the Markdown code elements, although those that are comfortable with HTML and JavaScript can also access it [via those routes](https://plotly.com/javascript/getting-started/). Plotly is included via an `npm` [package](https://www.npmjs.com/package/plotly.js?activeTab=readme) and is distributed as part of the minimized JavaScript that is part of the template.
+Plotly diagrams render from Markdown code blocks on pages with `plotly: true` in their front matter. The library loads only on those pages. Similarly, use `math: true` for MathJax or `mermaid: true` for Mermaid diagrams.
 
 In order to render a Plotly plot via Markdown the relevant plot data need to be added as follows:
 
@@ -137,7 +140,7 @@ Which produces the following:
 }
 ```
 
-Essentially what is taking place is that the [Plotly attributes](https://plotly.com/javascript/reference/index/) are being taken from the code block as JSON data, parsed, and passed to Plotly along with a theme that matches the current site theme (i.e., a light theme, or a dark theme). This allows all plots that can be described via the `data` attribute to rendered with some limitations for the theme of the plot.
+The [Plotly attributes](https://plotly.com/javascript/reference/index/) in each code block are parsed as JSON and passed to Plotly. Use the `data` and `layout` attributes to describe each chart and its appearance.
 
 ```plotly
 {

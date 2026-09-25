@@ -49,7 +49,7 @@ layout: default
               {% if site.author.avatar contains "://" %}
                 <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}">
               {% else %}
-                <img src="{{ site.author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ site.author.name }}">
+                <img src="{{ site.author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ site.author.name }}" width="{{ site.author.avatar_width }}" height="{{ site.author.avatar_height }}" fetchpriority="high" decoding="async">
               {% endif %}
             </div>
             <div class="welcome__intro">

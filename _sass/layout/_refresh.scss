@@ -49,6 +49,25 @@ body {
 
 body {
   padding-top: 0;
+  padding-bottom: 0;
+}
+
+html {
+  scroll-padding-top: 7rem;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+iframe[src*="youtube.com"],
+iframe[src*="youtube-nocookie.com"],
+iframe[src*="player.vimeo.com"] {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
 }
 
 body,
@@ -117,7 +136,7 @@ blockquote {
 }
 
 .masthead {
-  position: fixed;
+  position: sticky;
   top: 0;
   width: 100%;
   background: var(--global-bg-color);

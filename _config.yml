@@ -26,7 +26,9 @@ repository: pranjal-drall/pranjal-drall.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.webp"
+  avatar_width     : 1080
+  avatar_height    : 1025
   name             : "Pranjal Drall"
   pronouns         : # example: "she/her"
   bio              : ""
@@ -176,9 +178,15 @@ exclude:
   - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
+  - "*.log"
+  - "*.ipynb"
+  - .codex*
+  - _site*
+  - CONTRIBUTING.md
+  - docker-compose.yaml
+  - markdown_generator
+  - scripts
+  - talkmap.py
   - CHANGELOG
   - Capfile
   - config
