@@ -41,11 +41,10 @@ redirect_from:
 
 * American Law and Economics Association (2026)
 * AALS Mid-Year Financial Regulation Workshop (2026)
-* Conference on Empirical Legal Studies (2026)
 * Connecticut Insurance Law Workshop (2026)
 * Vanderbilt Policy Accelerator NPU Conference (2026)
 * Wharton-Chicago-Harvard Insolvency and Restructuring Conference (2026)
-* New York State Department of Financial Services
+* New York State Department of Financial Services (2026)
 
 <h2 class="research-section">Professional Experience</h2>
 * Holwell Shuster & Goldberg LLP, New York, NY
