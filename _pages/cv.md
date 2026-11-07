@@ -15,6 +15,8 @@ redirect_from:
   * Expected: 2027 (JD); 2029 (PhD)
   * Honors:
     * Judge Ralph K. Winter Jr. Prize for Law and Economics
+    * Judge Ralph K. Winter Jr. Prize for Corporate Law
+    * Marshall Jewell Prize
     * Stella M. Hammond Planetary Solutions Fellowship
   * Activities:
     * Research Assistant: Sarath Sanga and Bentley MacLeod
@@ -26,6 +28,24 @@ redirect_from:
     * Best Undergraduate Paper Prize, Midwest Economics Association 2020 Meeting
   * Honors:
     * Gilbert DeBartolo '69 Memorial Prize in Economics
+
+<h2 class="research-section">Teaching</h2>
+* Coker Fellow, Contracts (Yair Listokin)
+* Teaching Assistant, Procedure (Harold Koh)
+* Teaching Assistant, Business Organizations (Sarath Sanga)
+* Teaching Assistant, Constitutional Law (Samuel Moyn)
+* Teaching Assistant, Corporate Finance (Chris Clayton)
+* Teaching Assistant, Game Theory (Ben Polak)
+
+<h2 class="research-section">Presentations</h2>
+
+* American Law and Economics Association (2026)
+* AALS Mid-Year Financial Regulation Workshop (2026)
+* Conference on Empirical Legal Studies (2026)
+* Connecticut Insurance Law Workshop (2026)
+* Vanderbilt Policy Accelerator NPU Conference (2026)
+* Wharton-Chicago-Harvard Insolvency and Restructuring Conference (2026)
+* New York State Department of Financial Services
 
 <h2 class="research-section">Professional Experience</h2>
 * Holwell Shuster & Goldberg LLP, New York, NY
@@ -42,12 +62,3 @@ redirect_from:
 
 * Yale Law School, New Haven, CT
   * Research Fellow (Ian Ayres) (2020-21)
-
-<h2 class="research-section">Teaching</h2>
-* Coker Fellow, Contracts (Yair Listokin)
-* Teaching Assistant, Procedure (Harold Koh)
-* Teaching Assistant, Business Organizations (Sarath Sanga)
-* Teaching Assistant, Constitutional Law (Samuel Moyn)
-* Teaching Assistant, Corporate Finance (Chris Clayton)
-* Teaching Assistant, Game Theory (Ben Polak)
-

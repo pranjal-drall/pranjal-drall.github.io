@@ -67,6 +67,8 @@
       "courses": [],
       "honors": [
         "Judge Ralph K. Winter Jr. Prize for Law and Economics",
+        "Judge Ralph K. Winter Jr. Prize for Corporate Law",
+        "Marshall Jewell Prize",
         "Stella M. Hammond Planetary Solutions Fellowship"
       ],
       "activities": [
@@ -142,7 +144,36 @@
       "summary": "with Kishore Chundi and Yehonatan Givati"
     }
   ],
-  "presentations": [],
+  "presentations": [
+    {
+      "event": "American Law and Economics Association",
+      "date": "2026"
+    },
+    {
+      "event": "AALS Mid-Year Financial Regulation Workshop",
+      "date": "2026"
+    },
+    {
+      "event": "Conference on Empirical Legal Studies",
+      "date": "2026"
+    },
+    {
+      "event": "Connecticut Insurance Law Workshop",
+      "date": "2026"
+    },
+    {
+      "event": "Vanderbilt Policy Accelerator NPU Conference",
+      "date": "2026"
+    },
+    {
+      "event": "Wharton-Chicago-Harvard Insolvency and Restructuring Conference",
+      "date": "2026"
+    },
+    {
+      "event": "New York State Department of Financial Services",
+      "date": ""
+    }
+  ],
   "teaching": [
     {
       "course": "Contracts",
